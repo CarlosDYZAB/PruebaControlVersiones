@@ -2,3 +2,4 @@ patatas
 aceite
 tomate
 comer
+digerir
